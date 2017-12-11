@@ -1,0 +1,12 @@
+/home/kimboo/work/Netcoredate/tests/obj/Debug/netcoreapp2.0/tests.csproj.CoreCompileInputs.cache
+/home/kimboo/work/Netcoredate/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfoInputs.cache
+/home/kimboo/work/Netcoredate/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfo.cs
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/tests.deps.json
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.json
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.dev.json
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/tests.dll
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/tests.pdb
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/Netcoredate.dll
+/home/kimboo/work/Netcoredate/tests/bin/Debug/netcoreapp2.0/Netcoredate.pdb
+/home/kimboo/work/Netcoredate/tests/obj/Debug/netcoreapp2.0/tests.dll
+/home/kimboo/work/Netcoredate/tests/obj/Debug/netcoreapp2.0/tests.pdb

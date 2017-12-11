@@ -1,0 +1,8 @@
+/home/kimboo/work/Netcoredate/Netcoredate/bin/Debug/netstandard2.0/Netcoredate.deps.json
+/home/kimboo/work/Netcoredate/Netcoredate/bin/Debug/netstandard2.0/Netcoredate.dll
+/home/kimboo/work/Netcoredate/Netcoredate/bin/Debug/netstandard2.0/Netcoredate.pdb
+/home/kimboo/work/Netcoredate/Netcoredate/obj/Debug/netstandard2.0/Netcoredate.csproj.CoreCompileInputs.cache
+/home/kimboo/work/Netcoredate/Netcoredate/obj/Debug/netstandard2.0/Netcoredate.AssemblyInfoInputs.cache
+/home/kimboo/work/Netcoredate/Netcoredate/obj/Debug/netstandard2.0/Netcoredate.AssemblyInfo.cs
+/home/kimboo/work/Netcoredate/Netcoredate/obj/Debug/netstandard2.0/Netcoredate.dll
+/home/kimboo/work/Netcoredate/Netcoredate/obj/Debug/netstandard2.0/Netcoredate.pdb
