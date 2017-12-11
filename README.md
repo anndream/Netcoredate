@@ -17,4 +17,32 @@
 
 **GetDateBefore** : 
 
-**IsBefore** : 
+**GetDaysTo** : 
+
+**GetWeeksTo** : 
+
+**GetMonthsTo** : 
+
+**GetYearsTo** : 
+
+**GetAge** : 
+
+**Tommorow** :
+
+**Yesterday** : 
+
+**NextWeek** : 
+
+**NextYear** : 
+
+**LastWeek** : 
+
+**LastYear** : 
+
+**GetDateAfterWorkingDays** : 
+
+**GetDaysTo** : 
+
+
+
+
